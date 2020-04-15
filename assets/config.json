@@ -1,0 +1,13 @@
+{
+    "colors":{
+        "cell":[0, 255, 0],
+        "cellBorder": [50, 50, 50],
+        "emptyCell": [0, 0, 0],
+        "emptyCellBorder": [50, 50, 50],
+        "pausedText": [255, 0, 0],
+        "liveText": [251, 228, 0]
+    },
+    "resolution": [1200, 800],
+    "cellSize": [20, 20],
+    "framerate": 60
+}
